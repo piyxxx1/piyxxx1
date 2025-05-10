@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Piyush jha</h1>
+<h1 align="center">Hi 👋, I'm Piyush Jha</h1>
 <h3 align="center">A passionate Machine learning and Data science enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyxxx1&label=Profile%20views&color=0e75b6&style=flat" alt="piyxxx1" /> </p>
